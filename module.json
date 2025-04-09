@@ -1,0 +1,100 @@
+{
+    "id": "loser-systemless-compendiums",
+    "name": "loser-systemless-compendiums",
+    "title": "Systemless Loser Compendiums",
+    "description": "A collection of content for the Systemless version of Loser",
+    "version": "1.0.0",
+    "url": "https://github.com/orb15/loser-systemless-compendiums",
+    "manifest": "https://github.com/orb15/loser-systemless-compendiums/releases/latest/download/module.json",
+    "download": "https://github.com/orb15/loser-systemless-compendiums/releases/download/v1.0.0/orbs-bad-maps.zip",
+    "authors": [
+        {
+          "name": "orb15"
+        }
+    ],
+    "minimumCoreVersion": "12",
+    "compatibleCoreVersion": "12",
+    "compatibility": {
+        "minimum": "12",
+        "verified": "12"
+    },
+    "packs": [
+      {
+        "name": "loser-actors",
+        "label": "Loser: Actors",
+        "path": "./packs/loser-actors",
+        "type": "Actor",
+        "system": "systemless"
+      },
+      {
+        "name": "loser-armor",
+        "label": "Loser: Armor",
+        "path": "./packs/loser-armor",
+        "type": "Item",
+        "system": "systemless"
+      },
+	    {
+        "name": "loser-char-abilities",
+        "label": "Loser: Character Abilities",
+        "path": "./packs/loser-char-abilities",
+        "type": "Item",
+        "system": "systemless"
+      },
+	    {
+        "name": "loser-classes",
+        "label": "Loser: Classes",
+        "path": "./packs/loser-classes",
+        "type": "Item",
+        "system": "systemless"
+      },
+      {
+        "name": "loser-equipment",
+        "label": "Loser: Equipment",
+        "path": "./packs/loser-equipment",
+        "type": "Item",
+        "system": "systemless"
+      },
+	    {
+        "name": "loser-macros",
+        "label": "Loser: Macros",
+        "path": "./packs/loser-macros",
+        "type": "Macro",
+        "system": "systemless"
+      },
+      {
+        "name": "loser-quick-pack",
+        "label": "Loser: Quick Pack",
+        "path": "./packs/loser-quick-pack",
+        "type": "Item",
+        "system": "systemless"
+      },
+      {
+        "name": "loser-spells-druid",
+        "label": "Loser: Spells Druid",
+        "path": "./packs/loser-spells-druid",
+        "type": "Item",
+        "system": "systemless"
+      },
+      {
+        "name": "loser-spells-warpriest",
+        "label": "Loser: Spells Warpriest",
+        "path": "./packs/loser-spells-warpriest",
+        "type": "Item",
+        "system": "systemless"
+      },
+      {
+        "name": "loser-spells-wizard",
+        "label": "Loser: Spells Wizard",
+        "path": "./packs/loser-spells-wizard",
+        "type": "Item",
+        "system": "systemless"
+      },
+      {
+          "name": "loser-weapons",
+          "label": "Loser: Weapons",
+          "path": "./packs/loser-weapons",
+          "type": "Item",
+          "system": "systemless"
+      }
+    ]
+  }
