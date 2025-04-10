@@ -40,4 +40,5 @@ This Changelog will be periodically updated to reflect the latest version of FVT
 
 | Tagged Version | Foundry Compatibility | Notes |
 |----------------|-----------------------|--------------------------|
+| v1.1.0         | FVTT v12 Build 331    |  add misc gear, fix small issues |
 | v1.0.0         | FVTT v12 Build 331    |  initial release         |
