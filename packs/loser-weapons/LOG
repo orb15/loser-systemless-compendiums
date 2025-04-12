@@ -1,5 +1,5 @@
-2025/04/10-01:48:55.905 2c40 Recovering log #56
-2025/04/10-01:48:55.905 2c40 Level-0 table #58: started
-2025/04/10-01:48:55.909 2c40 Level-0 table #58: 645 bytes OK
-2025/04/10-01:48:55.911 2c40 Delete type=0 #56
-2025/04/10-01:48:55.911 2c40 Delete type=3 #55
+2025/04/11-23:40:13.703 e4c Recovering log #61
+2025/04/11-23:40:13.703 e4c Level-0 table #63: started
+2025/04/11-23:40:13.707 e4c Level-0 table #63: 999 bytes OK
+2025/04/11-23:40:13.709 e4c Delete type=0 #61
+2025/04/11-23:40:13.709 e4c Delete type=3 #60
