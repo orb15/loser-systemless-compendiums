@@ -3,10 +3,10 @@
     "name": "loser-systemless-compendiums",
     "title": "Systemless Loser Compendiums",
     "description": "A collection of content for the Systemless version of Loser",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "url": "https://github.com/orb15/loser-systemless-compendiums",
     "manifest": "https://github.com/orb15/loser-systemless-compendiums/releases/latest/download/module.json",
-    "download": "https://github.com/orb15/loser-systemless-compendiums/releases/download/v1.2.0/loser-systemless-compendiums.zip",
+    "download": "https://github.com/orb15/loser-systemless-compendiums/releases/download/v1.3.0/loser-systemless-compendiums.zip",
     "authors": [
         {
           "name": "orb15"
@@ -88,6 +88,13 @@
         "path": "./packs/loser-spells-wizard",
         "type": "Item",
         "system": "systemless"
+      },
+	  {
+          "name": "loser-tabless",
+          "label": "Loser: Rollable Tables",
+          "path": "./packs/loser-tables",
+          "type": "RollTable",
+          "system": "systemless"
       },
       {
           "name": "loser-weapons",
